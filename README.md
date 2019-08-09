@@ -1,8 +1,8 @@
 # ServerRack
 STL file for Server Model <br />
 
-RidgeServer - full 42U rack <br />
-RidgeRackLarge - Large 3 unit server <br />
-RidgeRackMedium - Medium 2 unit server <br />
-RidgeRackSmall - small 1 unit server <br />
-RidgeRackLargeRack - 3 unit test rack
+3u - generic = large server<br />
+2u - generic = medium server<br />
+1u - generic = small server<br />
+42u - rack = full 42u rack
+
